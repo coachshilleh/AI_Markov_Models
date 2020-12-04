@@ -2,4 +2,4 @@
 
 # Implement exact inference using the forward algorithm and approximate inference via particle filters.
 
-# My code in inference.py
+My code in inference.py
